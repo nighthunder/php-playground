@@ -1,2 +1,7 @@
 # php-poo-t-0
-PHP POO magic functions references
+# PHP Advanced topics
+
+* POO 
+* Magic functions 
+* References
+* Const
