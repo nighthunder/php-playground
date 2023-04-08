@@ -1,3 +1,4 @@
+# php installed in bash
 php --version
 
 # install composer
