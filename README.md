@@ -2,6 +2,11 @@
 # PHP Advanced topics
 
 * POO 
-* Magic functions 
+- Classes
+- Interfaces
+- Abstract methods
+- Traits
+- Magic functions 
+- Overwriting and destructing methods
 * References
 * Const
